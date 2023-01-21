@@ -34,6 +34,6 @@ These things were provided with the challenge:
 
 # Author
 
-- [Beaula Ekka Behance](www.behance.net/beaula)
+- [Beaula Ekka Behance](https://www.behance.net/beaula)
 
 - [Beaula Ekka Linkedin](https://www.linkedin.com/in/beaula-ekka-favejee-97316558/)
